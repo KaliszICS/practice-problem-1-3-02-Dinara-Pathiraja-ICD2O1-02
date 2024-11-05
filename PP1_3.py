@@ -8,16 +8,17 @@
 def q1():
   #shape #1
   starstring1= "* * * * * *"
-  print ("* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * * \n * * * * * * \n") 
+  print (" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * * \n* * * * * * \n") 
 
-  print ("* * * * * *\n*         *\n*         *\n*         *\n* * * * * *\n")
+  print ("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
 
-  print ("* * * * * *\n *       *\n  *     * \n   *   * \n     *   \n")
+  print ("* * * * * *\n *       * \n  *     * \n   *   * \n     *   \n")
 
 def q2():
-  word1 = "Hello "
-  word2 = "World"
-  print (word1 +  word2)
+  print ("Hello ", end= "")
+  print ("World")
+
+    
 def q3():
   wordm = "Man"
   wordb = "Board" 
