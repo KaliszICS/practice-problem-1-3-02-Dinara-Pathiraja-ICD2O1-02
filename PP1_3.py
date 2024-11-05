@@ -6,28 +6,29 @@
 '''
 
 def q1():
-  #shape #1
-  print (" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *") 
+  #shape a)
+  print (" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n")
+  #shape b)
+  print ("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
+  #shape c)
+  print ("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
 
-  print ("* * * * *\n*       *\n*       *\n*       *\n* * * * *")
-
-  print ("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n")
 
 def q2():
-  print ("Hello ", end= "")
-  print ("World")
-
+  word1 = "Hello "
+  word2 = "World"
+  print (word1 +  word2)
     
 def q3():
   wordm = '"Man"'
   wordb = '"Board"'
   wordmo = '"Man Overboard"'
-  print (f"{wordm}\n{wordb}\n{wordmo}\n")
+  print (wordm + "\n" + wordb + "\n" + wordmo)
          
 
 #Do not alter anything after this line
-#q1()
-#q2()
-#q3()
+q1()
+q2()
+q3()
 
 
