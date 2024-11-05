@@ -10,9 +10,9 @@ def q1():
   starstring1= "* * * * * *"
   print (" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * * \n* * * * * * \n") 
 
-  print ("* * * * *\n*       *\n*       *\n*       *\n* * * * *\n")
+  print ("* * * * *\n*       *\n*       *\n*       *\n* * * * *")
 
-  print ("* * * * * *\n *       * \n  *     * \n   *   * \n     *   \n")
+  print ("* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n")
 
 def q2():
   print ("Hello ", end= "")
