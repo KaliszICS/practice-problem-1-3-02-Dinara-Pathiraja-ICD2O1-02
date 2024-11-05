@@ -22,7 +22,7 @@ def q3():
   wordm = "Man"
   wordb = "Board" 
   wordmo = "Man Overboard"
-  print ( "wordm\n wordb\n wordmo\n")
+  print (f"{wordm}\n{wordb}\n{wordmo}")
          
 
 #Do not alter anything after this line
