@@ -1,13 +1,18 @@
-
+''' 
+    Lesson 3 - Using Strings 
+    Author: Mr. Kalisz 
+    Date Created: September 17th, 2024
+    Date Last Modified: September 17th, 2024
+'''
 
 def q1():
   #shape #1
   starstring1= "* * * * * *"
-  print ("* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * * \n * * * * * * \n\n") 
+  print ("* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * * \n * * * * * * \n") 
 
-  print ("* * * * * *\n*         *\n*         *\n*         *\n* * * * * *\n\n")
+  print ("* * * * * *\n*         *\n*         *\n*         *\n* * * * * *\n")
 
-  print ("* * * * * *\n *       *\n  *     * \n   *   * \n     *   \n\n")
+  print ("* * * * * *\n *       *\n  *     * \n   *   * \n     *   \n")
 
 def q2():
   word1 = "Hello "
