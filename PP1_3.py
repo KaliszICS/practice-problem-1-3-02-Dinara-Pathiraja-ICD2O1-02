@@ -19,9 +19,9 @@ def q2():
 
     
 def q3():
-  wordm = "Man"
-  wordb = "Board" 
-  wordmo = "Man Overboard"
+  wordm = '"Man"'
+  wordb = '"Board"'
+  wordmo = '"Man Overboard"'
   print (f"{wordm}\n{wordb}\n{wordmo}")
          
 
